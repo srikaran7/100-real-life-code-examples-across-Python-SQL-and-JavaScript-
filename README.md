@@ -1,11 +1,11 @@
-# 100-real-life-code-examples-across-Python-SQL-and-JavaScript-
+# 35-real-life-code-examples-across-Python-SQL-and-JavaScript-
 
 Python Code Examples 
 
 Reading and Writing Files:
 
 
-with open('data.txt', 'r') as file:
+with open('data.txt', 'r') as file: 
     content = file.read()
 #Sending Emails:
 
